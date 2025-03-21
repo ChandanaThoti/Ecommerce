@@ -30,6 +30,6 @@ FlipZo is an open-source application .We are committed to a fully transparent de
 
 ## Contact Information
 Thoti Chandana -
-GitHub:- [chandanathoti](chandana.thoti@everest.engineering)
+GitHub:- [chandanathoti](https://github.com/ChandanaThoti)
 
 
