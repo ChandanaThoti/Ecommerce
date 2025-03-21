@@ -14,6 +14,11 @@
 - My Oders
 - User Profiles
 
+## Tech Stack
+- Front-End: React JS
+- Backend:Node JS,Express JS
+- Database:MySQL
+
 ## Table Of Contents
 - [Installation](https://docs.npmjs.com/cli/v8/commands/npm-install)
 - [Extension development](https://evershop.io/docs/development/module/create-your-first-extension)
