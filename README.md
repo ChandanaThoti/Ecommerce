@@ -37,4 +37,8 @@ FlipZo is an open-source application .We are committed to a fully transparent de
 Thoti Chandana -
 GitHub:- [chandanathoti](https://github.com/ChandanaThoti)
 
+## Clone REPO
+-[HTTPS](https://github.com/ChandanaThoti/Ecommerce.git)
+-[SSH](
+
 
