@@ -38,7 +38,7 @@ Thoti Chandana -
 GitHub:- [chandanathoti](https://github.com/ChandanaThoti)
 
 ## Clone REPO
--[HTTPS](https://github.com/ChandanaThoti/Ecommerce.git)
--[SSH](git@github.com:ChandanaThoti/Ecommerce.git)
+-[https://github.com/ChandanaThoti/Ecommerce.git]
+
 
 
