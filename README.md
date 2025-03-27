@@ -1,5 +1,4 @@
-## Project Title
-<h1><i>FlipZo</i></h1>
+## Title:FlipZo
 
 ## Description
 - FlipZo is a React based E-Commerce application which allow users to search for a specific product in the home page.
