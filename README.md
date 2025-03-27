@@ -39,6 +39,6 @@ GitHub:- [chandanathoti](https://github.com/ChandanaThoti)
 
 ## Clone REPO
 -[HTTPS](https://github.com/ChandanaThoti/Ecommerce.git)
--[SSH](
+-[SSH](git@github.com:ChandanaThoti/Ecommerce.git)
 
 
